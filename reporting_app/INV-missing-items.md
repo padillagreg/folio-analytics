@@ -1,0 +1,1 @@
+The Missing Items report pulls a list of all items labeled missing with the intent that this listed be used in searching.  It outputs the items location, barcode, call number, enumeration, volume, and title.  
