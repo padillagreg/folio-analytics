@@ -1,0 +1,13 @@
+{
+    "displayName": "Acquisitions: Open Orders by Acq Unit",
+    "description": "List of open orders for the selected Acquisitions Unit",
+    "instructions": "Enter Acquisitions Unit and run the report. Order type = One-Time",
+    "parameters": [
+                {
+            "name": "acq_unit",
+            "displayName": "Acquisitions Unit",
+            "type": "text",
+            "required": false
+        }
+    ]
+}
